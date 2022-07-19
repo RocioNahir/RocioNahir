@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy Rocio, egresada como Full Stack Developer de SoyHenry 🚀</div>  
+### <div align="center">Soy Rocio! Egresada como Full Stack Developer de SoyHenry 🚀</div>  
   
 
 En busca constante de nuevas skills y tecnologías para aprender! Actualmente deseo desempeñarme como Front-End Developer! 🙌  
@@ -47,7 +47,7 @@ En busca constante de nuevas skills y tecnologías para aprender! Actualmente de
 
 
 
-### DevOps  
+### Control de Versiones
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
