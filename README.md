@@ -76,7 +76,7 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 <br/> 
 
 <a href="https://github.com/RocioNahir/PI-Dogs" align="center">
-  <img src="https://i.ibb.co/FWjfnpY/Landing-page-pi-dogs.jpg" alt="Landing-page-pi-dogs" align="center" width="100%">
+  <img src="https://i.ibb.co/FWjfnpY/Landing-page-pi-dogs.jpg" alt="Landing-page-pi-dogs" align="center" height="200">
 </a>
 
 <br/> 
