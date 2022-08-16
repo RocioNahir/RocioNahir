@@ -71,7 +71,7 @@ En busca constante de nuevas skills y tecnologías para aprender! Actualmente de
 <br/>  
 
 ## Projects
-<div><h3><s>Henry's Dogs</s></h3></div> 
+<div><h3><u>Henry's Dogs</u></h3></div> 
 Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Developer. Diseñe y desarrolle una pagina web sobre razas de perros que incluye: búsqueda por nombre, filtrado y ordenamiento, y opción para crear una raza. Se utilizo: Javascript, ReactJS, Redux, CSS puro, NodeJS, Express, PostgreSQL y Sequelize.
 <br/> 
 
@@ -82,7 +82,7 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 </a>
 
 <br/> 
-<div><h3><s>Pagina Web de Finanzas personales</s></h3></div> 
+<div><h3><u>Pagina Web de Finanzas personales</u></h3></div> 
 Proyecto grupal final del Bootcamp SoyHenry. Me desempeñe como Front-End Developer. Es una aplicación web donde el usuario podrá administrar sus finanzas personales. Para ello contará con múltiples funciones, desde seleccionar el tipo de divisa que maneja, ingresar sus gastos e ingresos y observar gráficamente sus variaciones, definir metas de ahorro. Además podrá saber los precios actuales de las monedas virtuales y tendrá acceso a las noticias financieras del momento. Utilice: Typescript, ReactJS, Redux Toolkit Material UI y CSS.
 <br/> 
 
