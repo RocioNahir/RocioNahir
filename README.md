@@ -78,7 +78,7 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 ![Landing Page de PI-Dogs](https://raw.githubusercontent.com/RocioNahir/PI-Dogs/master/Landingpage.jpeg)
 
 <a href="https://github.com/RocioNahir/PI-Dogs" align="center">
-  <p>Ir al Proyecto</p>
+  <p>Ir a la Página Web Henry's Dogs</p>
 </a>
 
 <br/> 
@@ -86,8 +86,10 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 Proyecto grupal final del Bootcamp SoyHenry. Me desempeñe como Front-End Developer. Es una aplicación web donde el usuario podrá administrar sus finanzas personales. Para ello contará con múltiples funciones, desde seleccionar el tipo de divisa que maneja, ingresar sus gastos e ingresos y observar gráficamente sus variaciones, definir metas de ahorro. Además podrá saber los precios actuales de las monedas virtuales y tendrá acceso a las noticias financieras del momento. Utilice: Typescript, ReactJS, Redux Toolkit Material UI y CSS.
 <br/> 
 
+<img src="https://i.ibb.co/rsXZT9h/Finanzas-Personales-Landing.jpg" alt="Finanzas-Personales-Landing" height="200">
+
 <a href="https://proyecto-final-lime-beta.vercel.app/" align="center">
-  <img src="https://i.ibb.co/rsXZT9h/Finanzas-Personales-Landing.jpg" alt="Finanzas-Personales-Landing" height="200">
+  <p>Ir a la Página Finanzas Personales</p>
 </a>
 
 ## Github Stats  
