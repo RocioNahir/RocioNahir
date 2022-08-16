@@ -75,7 +75,7 @@ En busca constante de nuevas skills y tecnologías para aprender! Actualmente de
 Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Developer. Diseñe y desarrolle una pagina web sobre razas de perros que incluye: búsqueda por nombre, filtrado y ordenamiento, y opción para crear una raza. Se utilizo: Javascript, ReactJS, Redux, CSS puro, NodeJS, Express, PostgreSQL y Sequelize.
 <br/> 
 
-<a href="https://github.com/RocioNahir/PI-Dogs"><img src="https://i.ibb.co/FWjfnpY/Landing-page-pi-dogs.jpg" alt="Landing-page-pi-dogs" height="300" background-size="contain" ></a>
+<a href="https://github.com/RocioNahir/PI-Dogs"><img src="https://i.ibb.co/FWjfnpY/Landing-page-pi-dogs.jpg" alt="Landing-page-pi-dogs" align="center" style="height:300px; background-size:contain" ></a>
 
 <br/> 
 <div><h2><b>Pagina Web de Finanzas personales</b></h2></div> 
