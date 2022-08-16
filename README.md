@@ -71,7 +71,7 @@ En busca constante de nuevas skills y tecnologías para aprender! Actualmente de
 <br/>  
 
 ## Projects
-1) Henry's Dogs 
+<div align="left">Henry's Dogs </div> 
 Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Developer. Diseñe y desarrolle una pagina web sobre razas de perros que incluye: búsqueda por nombre, filtrado y ordenamiento, y opción para crear una raza. Se utilizo: Javascript, ReactJS, Redux, CSS puro, NodeJS, Express, PostgreSQL y Sequelize.
 <br/> 
 
