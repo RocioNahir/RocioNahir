@@ -76,7 +76,7 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 <br/> 
 
 ![Landing Page de PI-Dogs](https://raw.githubusercontent.com/RocioNahir/PI-Dogs/master/Landingpage.jpeg)
-
+<br/> 
 <a href="https://henrysdogs-app.vercel.app/" align="center">
   <p>Ir a la Página Web "Henry's Dogs"</p>
 </a>
@@ -87,7 +87,7 @@ Proyecto grupal final del Bootcamp SoyHenry. Me desempeñe como Front-End Develo
 <br/> 
 
 ![Landing Page de Finanzas](https://raw.githubusercontent.com/RocioNahir/PI-Dogs/master/client/src/assets/LandingPageFinanzasP.jpeg)
-
+<br/> 
 <a href="https://proyecto-final-lime-beta.vercel.app/" align="center">
   <p>Ir a la Página Web "Finanzas Personales"</p>
 </a>
