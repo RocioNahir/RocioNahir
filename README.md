@@ -86,7 +86,7 @@ Proyecto individual del Bootcamp SoyHenry. Me desempeñe como Full Stack Develop
 Proyecto grupal final del Bootcamp SoyHenry. Me desempeñe como Front-End Developer. Es una aplicación web donde el usuario podrá administrar sus finanzas personales. Para ello contará con múltiples funciones, desde seleccionar el tipo de divisa que maneja, ingresar sus gastos e ingresos y observar gráficamente sus variaciones, definir metas de ahorro. Además podrá saber los precios actuales de las monedas virtuales y tendrá acceso a las noticias financieras del momento. Utilice: Typescript, ReactJS, Redux Toolkit Material UI y CSS.
 <br/> 
 
-<img src="https://i.ibb.co/rsXZT9h/Finanzas-Personales-Landing.jpg" alt="Finanzas-Personales-Landing" height="200">
+![Landing Page de Finanzas](https://raw.githubusercontent.com/RocioNahir/PI-Dogs/master/client/src/assets/LandingPageFinanzasP.jpeg)
 
 <a href="https://proyecto-final-lime-beta.vercel.app/" align="center">
   <p>Ir a la Página Web "Finanzas Personales"</p>
